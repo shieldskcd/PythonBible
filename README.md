@@ -2,4 +2,4 @@
 
 ## Purpose
 
-This is a ReadMe for the Python Bible Course on Udemy. 
+This is a Readme for the Python Bible Course on Udemy. 
